@@ -21,5 +21,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](https://img-pre.ivsky.com/img/tupian/pre/202104/19/maoheren-005.jpg)
 ```
