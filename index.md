@@ -1,3 +1,4 @@
+[toc]
 ## 天天开心
 
 hahahah
@@ -23,3 +24,5 @@ Syntax highlighted code block
 
 ```
 ![Image](maoheren-005.jpg)
+
+## 也要学习
