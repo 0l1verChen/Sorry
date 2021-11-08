@@ -6,7 +6,8 @@ napolun
 
 hhhhhh666666
 
-```markdown
+```java
+public class {}
 Syntax highlighted code block
 
 # 吃饭
@@ -21,5 +22,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://img-pre.ivsky.com/img/tupian/pre/202104/19/maoheren-005.jpg)
 ```
+![Image](https://img-pre.ivsky.com/img/tupian/pre/202104/19/maoheren-005.jpg)
